@@ -16,6 +16,8 @@
 - 🕶 For my own edu love to study a new features in data.
 - 🤝 I am interested in front-end development 0_o.
 - 🐒 But after University I want to become Full-Time ML engineer.
+- 📈 Have a dream of building my own sol-chained memecoin as a one of the next projects.
+- 🖤 Love working with pictures/videos/etc (editing).
 - 📫 Reach me by [Telegram](https://t.me/starvation_awaits_me), [Email](mailto:bebrochk4@gmail.com)
 
 <h3 align="center">Languages and tools:</h3>
