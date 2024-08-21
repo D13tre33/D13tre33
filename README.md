@@ -19,6 +19,7 @@
 - 📫 Reach me by [Telegram](https://t.me/starvation_awaits_me), [Email](mailto:bebrochk4@gmail.com)
 
 <h3 align="center">Languages and tools:</h3>
+
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" title="golang" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="git" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" title="docker" width="40" height="40"/>&nbsp;
@@ -35,4 +36,4 @@
 
 ## Pic of me:
 
-![0_o](https://drive.google.com/file/d/11IZYyoR4GCdI7zaX18jnCmJaWuX3XQ1g/view?usp=sharing)
+![0_o](https://i.postimg.cc/SR3zczKb/photo-2024-08-21-9-02-38-PM.jpg)
