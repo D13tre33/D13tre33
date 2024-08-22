@@ -37,4 +37,4 @@
 
 <h2 align="center">Pic of me:</h2>
 
-![0_o](https://www.imghippo.com/i/bNMB81724335554.jpg)
+![0_o](https://images.app.goo.gl/Q2ftUS7LUyKJbYtm8)
