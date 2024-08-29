@@ -1,5 +1,5 @@
 <h2 align="center">Hi there,  I'm D13tre33 👋</h2>
-<h3 align="center">ML engineer from Saint-P, Russia</h3>
+<h3 align="center">ML engineer & Frontend React dev from Saint-P, Russia</h3>
 <div id="socials" align="center">
     <a href="https://t.me/starvation_awaits_me">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
