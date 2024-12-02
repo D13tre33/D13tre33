@@ -21,6 +21,7 @@
 - 📫 Reach me by [Telegram](https://t.me/starvation_awaits_me), [Email](mailto:bebrochk4@gmail.com)
 
 <h3 align="center">Languages and tools:</h3>
+
 ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Strapi](https://img.shields.io/badge/strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
@@ -33,6 +34,7 @@
 ![Adobe PS](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![Conda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
 ![Solana](https://img.shields.io/badge/Solana-000?style=for-the-badge&logo=Solana&logoColor=9945FF)
+
 <h2 align="center">Pic of me:</h2>
 
 ![0_o](https://i.postimg.cc/SR3zczKb/photo-2024-08-21-9-02-38-PM.jpg)
